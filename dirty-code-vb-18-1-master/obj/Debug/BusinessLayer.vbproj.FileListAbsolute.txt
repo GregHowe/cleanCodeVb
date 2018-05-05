@@ -1,0 +1,10 @@
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\obj\Debug\BusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\obj\Debug\BusinessLayer.vbproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\obj\Debug\BusinessLayer.vbproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\bin\Debug\BusinessLayer.dll
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\bin\Debug\BusinessLayer.pdb
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\bin\Debug\BusinessLayer.xml
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\obj\Debug\BusinessLayer.Resources.resources
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\obj\Debug\BusinessLayer.dll
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\obj\Debug\BusinessLayer.xml
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\dirty-code-vb-18-1-master\obj\Debug\BusinessLayer.pdb

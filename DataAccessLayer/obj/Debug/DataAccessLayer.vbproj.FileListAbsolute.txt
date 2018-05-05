@@ -1,0 +1,13 @@
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.Resources.resources
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.vbproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.vbproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\bin\Debug\DataAccessLayer.xml
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\bin\Debug\BusinessLayer.xml
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.xml
+C:\Users\Richard\Desktop\PostGrado\Ingenieria de Ambiente de Desarrollo\Sesión 03\Work\dirty-code-vb-18-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
